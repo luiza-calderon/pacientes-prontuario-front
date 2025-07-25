@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pacientes_captacao_front/data/models/patient.dart';
+import 'package:pacientes_prontuario_front/data/models/patient.dart';
 
 class PatientListItem extends StatelessWidget {
   final Patient patient;

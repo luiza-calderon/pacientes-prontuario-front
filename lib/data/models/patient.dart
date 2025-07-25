@@ -1,4 +1,4 @@
-import 'package:pacientes_captacao_front/data/models/phone.dart';
+import 'package:pacientes_prontuario_front/data/models/phone.dart';
 
 class Patient {
   final String id;

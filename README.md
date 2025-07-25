@@ -1,3 +1,3 @@
-# pacientes_captacao_front
+# pacientes_prontuario_front
 
 A new Flutter project.

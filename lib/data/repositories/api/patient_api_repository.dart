@@ -1,6 +1,6 @@
-import 'package:pacientes_captacao_front/data/models/patient.dart';
-import 'package:pacientes_captacao_front/data/models/phone.dart';
-import 'package:pacientes_captacao_front/data/repositories/patient_repository.dart';
+import 'package:pacientes_prontuario_front/data/models/patient.dart';
+import 'package:pacientes_prontuario_front/data/models/phone.dart';
+import 'package:pacientes_prontuario_front/data/repositories/patient_repository.dart';
 
 class PatientApiRepository extends PatientRepository {
   @override

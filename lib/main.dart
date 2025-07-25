@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:pacientes_captacao_front/data/repositories/api/patient_api_repository.dart';
-import 'package:pacientes_captacao_front/ui/view_model/patients_view_model.dart';
+import 'package:pacientes_prontuario_front/data/repositories/api/patient_api_repository.dart';
+import 'package:pacientes_prontuario_front/ui/view_model/patients_view_model.dart';
 import 'package:provider/provider.dart';
 import './routing/go_router.dart';
 
